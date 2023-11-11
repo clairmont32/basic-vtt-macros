@@ -3,20 +3,16 @@
 // Specify the name of the spell
 const spellName = "Create Bonfire";
 
-
 // Get the currently controlled token
 const controlledToken = canvas.tokens.controlled[0];
-
 
 // Check if a token is controlled
 if (controlledToken) {
  // Get the actor associated with the token
  const actor = controlledToken.actor;
 
-
  // Check if the actor has the specified spell
  const spell = actor.items.find((item) => item.name === spellName && item.type === "spell");
-
 
  if (spell) {
    // Roll the spell's attack/save and damage

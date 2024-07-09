@@ -4,6 +4,36 @@ mend:
 
 longstrider:
   custom_name: Beans of Acceleration
-  description: "Semi-rare horse pill like bean that's bitter and breaks into chunks. Grows half way up on a mountainside. A single plant grows 3 beans and is not typically seen in groups of 3."
-Semi-rare horse pill like bean that's bitter and breaks into chunks. Grows half way up on a mountainside. A single plant grows 3 beans and is not typically seen in groups of 3
+  description: "Semi-rare horse pill like bean that's bitter and breaks into chunks. Grows half way up on a mountainside. A single plant grows 3 beans and is not typically seen in groups of 3"
 
+create bonfire:
+  custom_name: Symbol of Fire
+  description: "Wooden carved flame that is thrown and upon landing, creates a large sploosh of a bon fire."
+
+catapult:
+  custom_name: "stick of launching"
+  description: "Stick roughly 3 feet long with the thickness of a baseball bat. On the bottom resembles that of the mystical golf club used for smacking small objects with physical strength or magically by placing it near the object. On the top there is a open section resembling the cross-section of a pear with some netting. This end isused for longer ranged, magical, object manipulation."
+
+glove:
+  custom_name: "Glove of Mysterious Magic"
+  description: "Good quality cloth glove with gems upon the knuckles Used for Scorching Ray, Shatter, Thunderwave."
+
+invisibility:
+  custom_name: Gnosight
+  description: "Invisibility. A creature you touch becomes @Compendium[dnd5e.rules.w7eitkpD7QQTB6j0]{invisible} until the spell ends. Anything the target is wearing or carrying is @Compendium[dnd5e.rules.w7eitkpD7QQTB6j0]{invisible} as long as it is on the target's person. The spell ends for a target that attacks or casts a spell. At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd."
+
+scorching ray:
+  custom_name: "Rays of Gnoooooo!"
+  description: "Use by tapping red gem on Glove of Mysterious Magic, . You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage. At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd."
+
+wand:
+  custom_name: "Arcane Firearm Wand"
+  description: ""
+
+alarm:
+  custom_name: Alarmacokra
+  description: "Articulated wooden bird resembling an Aarakocra. Upon a nearby enemy's presence this bird screams only audible to its owner to alert them of the danger. You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube. Until the spell ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is mental or audible. A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping. An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet."
+
+spare the dying:
+  custom_name: "bracers of gnopulse"
+  description: "You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs. Once every 15 seconds a mid-toned beep is emitted indicating the wearer is stable. Upon losing all health/pulse an electrical windup sound is emitted and shocks the wearer to spur a pulse again and they instantly become stable."

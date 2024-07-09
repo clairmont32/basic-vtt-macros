@@ -5,3 +5,5 @@ mend:
 longstrider:
   custom_name: Beans of Acceleration
   description: "Semi-rare horse pill like bean that's bitter and breaks into chunks. Grows half way up on a mountainside. A single plant grows 3 beans and is not typically seen in groups of 3."
+Semi-rare horse pill like bean that's bitter and breaks into chunks. Grows half way up on a mountainside. A single plant grows 3 beans and is not typically seen in groups of 3
+

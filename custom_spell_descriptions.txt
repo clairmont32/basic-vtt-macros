@@ -57,3 +57,7 @@ scorching ray:
 rope trick:
   custom_name: Gnope-Rope
   description: "A 6 inch piece of rope that stands vertical when held tightly. At the rope’s upper end, an Invisible 3-foot-by-5-foot portal opens to an extradimensional space that lasts until the spell ends. That space can be reached by climbing the rope, which can be pulled into or dropped out of it. The space can hold up to eight Medium or smaller creatures. Attacks, spells, and other effects can’t pass into or out of the space, but creatures inside it can see through the portal. Anything inside the space drops out when the spell ends."
+
+Fire Bolt:
+  custom_name: "Gnoma-Fire!!"
+  description: "A blunt jagged wooden shortsword that glows red and blue from the hilt to the tip. A concaved ring of fire about 1 foot in diameter emitts from the tip then a bolt of fire shoots forth from the center towards the targeted creature or object. You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts burning if it isn’t being worn or carried. Cantrip Upgrade. The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10)."

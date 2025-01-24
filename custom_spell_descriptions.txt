@@ -1,3 +1,7 @@
+fire bolt:
+  custom_name: Fire Wand
+  describe: "A wooden wand resembling a long wavy flame that glows bright orange then shoots fire."
+
 mend:
   custom_name: Gnomeite
   description: "Mend — a sticky sap-like substance that uses the regenerative properties similar to that of a Wood Woad. A single hair of the item's owner is required to ensure the bond between creature and the repaired item remains strong. The paste requires 1d3+1 hours to solidify on its own, however, fluids from the owner or an Artificer can act as a bonding agent thus reducing the curing time to 1 hour. The fluid must cover the entire paste to be effective."

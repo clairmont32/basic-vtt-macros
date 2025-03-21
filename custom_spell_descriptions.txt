@@ -1,3 +1,11 @@
+faerie fire:
+  custom_name: Gnot Faer
+  description: "A handful of metal shavings that glows violet when thrown at a target. <p>Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius. Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being @Compendium[dnd5e.rules.w7eitkpD7QQTB6j0]{invisible}."
+
+lightning lure:
+  custom_name: "Gnome-limited Power!!!"
+  description: "Crossbow bolt that has the tip narrowed a bit more than usual and longer spirals etched into the wood. The bolt is used similar to a long wand or lightning rod that then glows pale blue when raised at full height. When the beholder shouts, "Gnome-limited power!" bolts of lightning emit from the tip towards the target and pulls them up to 10 feet closer to me. <p>You create a lash of lightning energy that strikes at one creature of your choice that you can see within 15 feet of you. The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you. <p> This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
 fire bolt:
   custom_name: Fire Wand
   describe: "A wooden wand resembling a long wavy flame that glows bright orange then shoots fire."
